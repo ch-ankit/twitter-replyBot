@@ -11,9 +11,8 @@ module.exports = {
     access_token: '',
     access_token_secret: ''
 }
-\n
 
-You need to register as a twitter developer from https://developer.twitter.com/en/apps and \n
+You need to register as a twitter developer from https://developer.twitter.com/en/apps and 
 fill out the forms to get all the fields mentioned above.
 
 ## Thank You!! :)
