@@ -7,7 +7,7 @@ var T = new twit(config);
 var date = new Date();
 date = `${date.getFullYear()}-` + `${date.getMonth()}-` + `${date.getDay()}`;
 
-var stream = T.stream('statuses/filter', { track: `@chankit68270532` })
+var stream = T.stream('statuses/filter', { track: `@chankit68270532` }) //Your Username: instead of @chankit68270532
 stream.on('tweet', replyMentions)
 
 function replyMentions() {
