@@ -6,13 +6,13 @@ npm install
 
 ## config.js
 module.exports = {
-    consumer_key: '',
-    consumer_secret: '',
-    access_token: '',
-    access_token_secret: ''
+    consumer_key: '',<br>
+    consumer_secret: '',<br>
+    access_token: '',<br>
+    access_token_secret: ''<br>
 }
 
-You need to register as a twitter developer from https://developer.twitter.com/en/apps and 
+You need to register as a twitter developer to access the twitter API from https://developer.twitter.com/en/apps and 
 fill out the forms to get all the fields mentioned above.
 
 ## Thank You!! :)
